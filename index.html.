@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<title>MY BEST TRAVEL DESTINATION</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-teal">
+<h1>My Travel Destination </h1>
+</div>
+
+<div class="w3-content">
+
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/Desktop.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Concepcion</h2>
+  <p>
+     I've been here always when my Aunt has her own beach house during our vacation.
+  </p>
+</div>
+
+</div>
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/El Nido.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>El Nido,Palawan</h2>
+  <p>
+    It is one of the most popular destinations in the Philippines and for good reason, the nearby islands and beaches are absolutely stunning. I've never been here before.
+  </p>
+</div>
+
+
+</div>
+<div class="w3-row w3-margin">
+
+<div class="w3-third">
+  <img src="img/Undergroud River.jpg" style="width:100%;min-height:200px">
+</div>
+<div class="w3-twothird w3-container">
+  <h2>Undergroud River</h2>
+  <p>
+      One of the best I've seen in my life!
+    </p>
+</div>
+
+
+</div>
+</div>
+</body>
+</html>
